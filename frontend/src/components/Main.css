@@ -4,15 +4,13 @@
         padding-top: 100px;
         justify-content: center;
         align-items: center;
-        
-
     }
     .Main h2 {
         text-align: center;
         justify-content: center;
         align-items: center;
         display: flex;
-        margin-bottom: auto;
+        margin-bottom: 100px;
 
     }
     .Main p {

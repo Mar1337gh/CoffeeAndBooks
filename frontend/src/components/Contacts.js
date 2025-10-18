@@ -24,7 +24,6 @@ function Contacts() {
     )
       .then(result => result.json())
       .then((result) => {console.log(result)})
-    
   }
 
   return (
@@ -37,6 +36,7 @@ function Contacts() {
       <input id='userPhone' type='text' placeholder='Введите номер телефона' />
       <input id='userEmail' type='email' placeholder='Введите адрес эл. почты' />
       <button onClick={Feedback}>Отправить данные</button>
+      <img src ='/media/tiles (2).png' alt='изображение1' />
     </div>
   );
 }
