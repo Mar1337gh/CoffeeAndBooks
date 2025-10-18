@@ -10,11 +10,9 @@
     }
 
     .Responces h2 {
-        text-align: center;
-        justify-content: start;
         align-items: center;
         display: flex;
-        margin-bottom: auto;
+
     }
 
     .Responces h3 {
