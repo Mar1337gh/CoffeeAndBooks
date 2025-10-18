@@ -1,0 +1,26 @@
+@media (min-width: 720px) and (max-width: 2560px) {
+    .Main {
+        display: flex;
+        padding-top: 100px;
+        justify-content: center;
+        align-items: center;
+        
+
+    }
+    .Main h2 {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-bottom: auto;
+
+    }
+    .Main p {
+      display: flex;
+        padding-top: 100px;
+        background-size: cover;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

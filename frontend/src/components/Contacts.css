@@ -1,0 +1,32 @@
+@media (min-width: 720px) and (max-width: 2560px) {
+    .Contacts {
+        justify-content: center;
+        align-items: center;
+        
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .Contacts h2 {
+        text-align: center;
+    }
+    .Contacts input {
+        display: flex;
+        flex-direction: column;
+    }
+    button {
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        display: flex;
+        background-color:darkgoldenrod;
+        color:azure;
+        border-radius: 10px;
+        
+    }
+     button:hover{
+        background-color: orange;
+        transform: scale(1.03);
+     }
+}

@@ -1,0 +1,28 @@
+@media (min-width: 720px) and (max-width: 2560px) {
+    .Header {
+        display: flex;
+        padding-top: 30px;
+        background-image: url('/public/media/M_height (1).webp');
+        background-size: cover;
+    }
+    .Header h1 {
+        font-size: 24px;
+    }
+    .Header ul {
+        display:flex;
+        flex-direction: row;
+        list-style: none;
+        align-items: flex-end;
+        gap: 30px;
+    }
+    .Main li {
+        display:flex;
+        margin: 20px;
+        padding: 30px;
+        align-items: flex-end;
+        background-color: blanchedalmond;
+
+    }
+
+
+}
